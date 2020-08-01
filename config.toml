@@ -1,0 +1,13 @@
+# Site settings
+baseurl = "https://example.com"
+languageCode = "en-us"
+sectionPagesMenu = "main"
+theme = "frances"
+pluralizelisttitles = false
+
+
+[params]
+	name = "Benjamin Antin Photography"
+	description = "Photos for Racial Justice"
+	email = "benjaminantin1@gmail.com"
+	author = "Benjamin Antin"
